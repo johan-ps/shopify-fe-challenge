@@ -1,0 +1,16 @@
+.responsesContainer {
+    background-color: #1F40B7;
+    padding: 20px;
+    height: 100%;
+    overflow: scroll;
+}
+
+.header {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.noDataText {
+    color: white;
+}
